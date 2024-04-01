@@ -32,7 +32,3 @@ Adventure Works is a sample database provided by Microsoft for learning and trai
   - Seasonal Trends: Identification of seasonal sales trends for targeted marketing.
   - Product Performance: Understanding which products are most popular and profitable.
   - Customer Segmentation: Grouping customers based on their buying behavior.
-
-## Screenshots
-
-- *Sales Performance Dashboard*: to do
